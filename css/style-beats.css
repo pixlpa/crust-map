@@ -1,0 +1,29 @@
+body{
+margin:0;
+}
+
+.dummy {
+   position:absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #cdc;
+    background-size: contain;
+    background-position:center;
+    background-repeat: repeat;
+    z-index:0;
+}
+
+.magicalpowers {
+  width:100%;
+  height:100%;
+}
+
+#transition {
+  position:absolute;
+  z-index:2;
+}
+
+#grid {
+	position:absolute;
+	z-index:1;
+}

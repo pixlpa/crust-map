@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <svg xmlns="http://www.w3.org/2000/svg"
+    width="500" height="500">
+   <g id="lines" stroke="black" stroke-width="2">
+    <path d="m 0,50 L 500,50"/>
+    <path d="m 0,100 L 500,100"/>
+    <path d="m 0,150 L 500,150"/>
+    <path d="m 0,200 L 500,200"/>
+    <path d="m 0,250 L 500,250"/>
+    <path d="m 0,300 L 500,300"/>
+    <path d="m 0,350 L 500,350"/>
+    <path d="m 0,400 L 500,400"/>
+    <path d="m 0,450 L 500,450"/>
+    <path d="m 50,0 L 50,500"/>
+    <path d="m 100,0 L 100,500"/>
+    <path d="m 150,0 L 150,500"/>
+    <path d="m 200,0 L 200,500"/>
+    <path d="m 250,0 L 250,500"/>
+    <path d="m 300,0 L 300,500"/>
+    <path d="m 350,0 L 350,500"/>
+    <path d="m 400,0 L 400,500"/>
+    <path d="m 450,0 L 450,500"/>
+   </g>
+  </svg>
+    
